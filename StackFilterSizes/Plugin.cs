@@ -187,7 +187,7 @@ namespace StackFilterSizes
         public static bool ShowGUI = false;
         public static bool ShowDEBUG = false;
         public static int InserterValue = 100;
-        public static bool PatchEnabled = true;
+        public static bool PatchEnabled = false;
         public static bool FuelPatchEnabled = false;
         public static string LastHitObjectTag = "";
         public static string LastHitObjectLayer = "";
